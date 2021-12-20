@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7c3a31e.chunk.css",
+    "main.js": "/static/js/main.911a76ce.chunk.js",
+    "main.js.map": "/static/js/main.911a76ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.776c1e0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.776c1e0d.js.map",
+    "static/js/2.fe0f373d.chunk.js": "/static/js/2.fe0f373d.chunk.js",
+    "static/js/2.fe0f373d.chunk.js.map": "/static/js/2.fe0f373d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b7c3a31e.chunk.css.map": "/static/css/main.b7c3a31e.chunk.css.map",
+    "static/js/2.fe0f373d.chunk.js.LICENSE.txt": "/static/js/2.fe0f373d.chunk.js.LICENSE.txt",
+    "static/media/A001.b2c118c7.jpg": "/static/media/A001.b2c118c7.jpg",
+    "static/media/B002.c2178d9b.jpg": "/static/media/B002.c2178d9b.jpg",
+    "static/media/C002.7fb94760.jpg": "/static/media/C002.7fb94760.jpg",
+    "static/media/clientesPC.196491d0.jpg": "/static/media/clientesPC.196491d0.jpg",
+    "static/media/clientesTeles.6a05292f.jpg": "/static/media/clientesTeles.6a05292f.jpg",
+    "static/media/App.css": "/static/media/fondo.ce7c11ee.jpg",
+    "static/media/icono2.40684261.jpg": "/static/media/icono2.40684261.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.776c1e0d.js",
+    "static/js/2.fe0f373d.chunk.js",
+    "static/css/main.b7c3a31e.chunk.css",
+    "static/js/main.911a76ce.chunk.js"
+  ]
+}
