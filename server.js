@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const path = require('path');
 
-const comentariosRouter = require('./Routes/Comentarios');
+const comentariosRouter = require('./Routes/comentarios');
 
 require('dotenv').config();
 const app = express();
